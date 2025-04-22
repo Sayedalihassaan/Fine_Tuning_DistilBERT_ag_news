@@ -1,4 +1,6 @@
-Fine-Tuning DistilBERT for Text Classification on AG News Dataset
+## Fine-Tuning DistilBERT for Text Classification on AG News
+
+## Dataset
 This repository contains the code and documentation for fine-tuning a DistilBERT model for text classification on the AG News dataset. The project classifies news articles into four categories: World, Sports, Business, and Science/Tech. The workflow follows best practices in natural language processing (NLP), including data exploration, feature extraction, model fine-tuning, evaluation, and deployment.
 Table of Contents
 
